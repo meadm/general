@@ -1,2 +1,2 @@
 # utilities
-General general scripts for bioinformatics and parsing
+General scripts for bioinformatics and parsing
